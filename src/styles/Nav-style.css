@@ -1,0 +1,15 @@
+nav {
+    background-color: #F55A5A;
+    display: flex;
+    padding: 1.5em;
+    justify-content: center;
+    gap: 10px;
+    color: #fff;
+    margin-bottom: 3em;
+  }
+  
+  
+  nav h1 {
+    font-weight: 500;
+  }
+  
